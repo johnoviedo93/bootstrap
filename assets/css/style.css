@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 200px;
+}
+section{
+    height: 768px;
+}
+aside{
+    height: 768px;
+}
+footer{
+    height: 200px;
+}
